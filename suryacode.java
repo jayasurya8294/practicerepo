@@ -67,7 +67,7 @@ public class IntListVer3{
      * Insert x at position pos. Elements with a position equal
      * to pos or more are shifted to the right. (One added to their
      * position.)
-     * post: get(pos) = x, size() = old size() + 1
+     * post: get(pos) = x, size() = new size() + 1
      * @param pos 0 <= pos <= size()
      * @param x
      */
