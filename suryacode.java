@@ -30,7 +30,7 @@ public class IntListVer3{
     }
 
     /**
-     * Constructor to allow user of class to specify 
+     * Constructor to allow user of class in specify 
      * initial capacity in case they intend to add a lot
      * of elements to new list. Creates an empty list.
      * @param initialCap > 0
